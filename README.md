@@ -8,4 +8,5 @@ Platform: Android
 
 
 Screens
-<h1 align="center"> <img src="photo5280969565733499559.jpg"> </h1>
+<h2 align="center"> <img src="photo5280969565733499559.jpg"> </h2>
+<h2 align="center"> <img src="photo5280969565733499560.jpg"> </h2>
